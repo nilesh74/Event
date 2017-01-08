@@ -1,0 +1,2391 @@
+/* 
+    Title:  Eventus Design - HTML Template
+    Author: VicThemes
+*/
+@media (max-width: 1807px) {
+  .home .header .ev-navbar .height.logo-text {
+    width: 20%; }
+
+  .home .header .ev-navbar .menu-primary {
+    width: 50%; }
+
+  .home .header .ev-navbar .height.uk-visible-large {
+    width: 30%; }
+
+  .home-three .header .ev-container-full .ev-navbar .menu-icon .pull-right li {
+    padding: 0 14px; }
+
+  .upcoming-event-home-three .box-right .ev-box-title h3 {
+    font-size: 65px;
+    line-height: 85px; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 10%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -25%; } }
+@media (max-width: 1760px) {
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -26%; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 13%; } }
+@media (max-width: 1603px) {
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content {
+    padding-left: 110px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content h3 {
+    font-size: 25px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content {
+    left: -13%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -29%; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 14%; } }
+@media (max-width: 1434px) {
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content {
+    padding-left: 100px;
+    padding-right: 45px;
+    font-size: 20px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content h3 {
+    padding-bottom: 8px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content {
+    left: -14%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title h3 {
+    font-size: 55px; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -27%; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 12%; } }
+@media (max-width: 1366px) {
+  .home .header .ev-navbar .height.uk-visible-large {
+    display: none; }
+
+  .home .header .ev-navbar .height.logo-text {
+    width: 20%; }
+
+  .home .header .ev-navbar .menu-primary {
+    width: 80%; }
+
+  .home-three .header .ev-container-full .ev-navbar .menu-icon {
+    display: none; }
+
+  .our-testimonials-home-three .uk-slidenav-position .uk-slideset li .item p {
+    padding: 40px 250px 0 250px; }
+
+  .upcoming-event-home-three .box-border .box-left .content {
+    margin: auto; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content {
+    left: -100px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content {
+    padding-left: 100px; }		  .upcoming-event-home-three .box-border .box-left{	  	padding: 270px 0px; } }	@media (max-width: 1365px) {	  .upcoming-event-home-three .box-border {	      display: none; }        .upcoming-event-home-three .box-right {	  	width: 100%;	height: 750px; }			  .upcoming-event-home-three .slider-wrap {	  	left: 15% !important; }			  .upcoming-event-home-three .slider-wrap.slider-wrap-one {	  	top: 5%; }			  .upcoming-event-home-three .slider-wrap.slider-wrap-two {	  	top: 10%; }			  .upcoming-event-home-three .slider-wrap.slider-wrap-three {	  	top: 15%; }			  .upcoming-event-home-three .box-right .ev-box-title {	  	margin-top: -20px;	right: -5%; }			  .upcoming-event-home-three .slider-up-down{	  	right: 17%; } }
+@media (max-width: 1219px) {
+  .box-img-big {
+    width: 35%;
+    padding-left: 0;
+    margin-left: 25px; }
+  
+  .home-two .top-bar .box .box-icon {
+    padding-right: 10px; }
+
+  .home-two .top-bar .box .box-icon .icon {
+    font-size: 25px; }
+
+  .home-two .top-bar .box .box-content p {
+    font-size: 12px; }
+
+  .home-two .top-bar .box .box-text {
+    padding-right: 10px;
+    font-size: 12px; }
+
+  .event-register-home-two #event_register input, .event-register-home-two #event_register select {
+    margin: 0 50px 20px 50px; }
+
+  .event-register-home-two #event_register label:before {
+    top: -12px;
+    right: 70px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 148px solid transparent;
+    border-right: 148px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 148px solid transparent;
+    border-right: 148px solid transparent; }
+
+  .ticket-list-home-two .box .box-header .box-img {
+    width: 180px; }
+
+  .footer-home-three .newstter .uk-form input {
+    width: 70%; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 15%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -13%; }
+
+  .home-four .find-event {
+    height: auto;
+    padding: 30px 0; }
+
+  .home-four .find-event .uk-container .uk-grid .uk-width-medium-2-10, .home-four .find-event .uk-container .uk-grid .uk-width-medium-8-10 {
+    width: 100%; }
+
+  .home-four .find-event .ev-box-title {
+    text-align: center; }
+
+  .home-four .find-event .ev-box-title:before {
+    left: 40%;
+    height: 70px;
+    line-height: 70px; }
+
+  .home-four .find-event .ev-box-title h3 {
+    height: 70px;
+    line-height: 70px; }
+
+  .home-four .find-event .uk-form {
+    float: none;
+    text-align: center;
+    line-height: 60px; }
+
+  .upcoming-event-home-four .uk-container .uk-grid .uk-width-medium-1-3 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .upcoming-event-home-four .box-circle {
+    margin-left: auto;
+    margin-right: auto; }
+
+  .our-spearker-home-four .box .box-img {
+    max-height: 198px; }
+
+  .our-spearker-home-four .box:hover .box-img .icon {
+    top: 40px; }
+
+  .home-five .next-event-count-down.sec-padding-big {
+    padding: 200px 0; }
+
+  .home-five .next-event-count-down .border-bottom {
+    height: 200px;
+    bottom: -85px; }
+
+  .home-five .next-event-count-down .border-bottom:before {
+    border-top: 80px solid transparent;
+    border-right: 450px solid #62bd5c;
+    border-bottom: 60px solid transparent;
+    bottom: 90px; }
+
+  .home-five .next-event-count-down .border-bottom:after {
+    border-top: 145px solid #f0f0f0;
+    border-left: 60px solid transparent;
+    bottom: 45px;
+    right: 240px;
+    transform: skewX(72.5deg);
+    -webkit-transform: skewX(72.5deg);
+    -moz-transform: skewX(72.5deg);
+    -ms-transform: skewX(72.5deg);
+    -o-transform: skewX(72.5deg); }
+
+  .footer-home-five .border-top {
+    height: 200px;
+    top: -85px; }
+
+  .footer-home-five .border-top:before {
+    border-top: 80px solid transparent;
+    border-right: 450px solid #62bd5c;
+    border-bottom: 60px solid transparent;
+    bottom: -20px;
+    transform: skewY(-8deg);
+    -webkit-transform: skewY(-8deg);
+    -moz-transform: skewY(-8deg);
+    -ms-transform: skewY(-8deg);
+    -o-transform: skewY(-8deg); }
+
+  .footer-home-five .border-top:after {
+    border-top: 145px solid transparent;
+    border-left: 60px solid #f0f0f0;
+    bottom: 10px;
+    right: 215px; }
+
+  .about-event-countdown-home-five.sec-padding {
+    padding: 100px 0 70px 0; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 317px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 317px solid transparent; }
+
+  .about-event-countdown-home-five .uk-container .uk-grid .uk-width-medium-1-4 {
+    width: 50%;
+    margin: 0 auto 30px auto; }
+
+  .our-spearker-home-five .box .box-img {
+    max-height: 420px; }
+
+  .event-detail-page .conference-home-two .conference-date li {
+    display: block; }
+
+  .event-detail-page .conference-home-two .conference-date li:after {
+    width: 1px;
+    height: 100%;
+    top: 0;
+    right: 50%; }
+
+  .event-detail-page .conference-home-two .ev-box-title h3 {
+    text-align: center; } }
+@media (max-width: 1024px) {
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom ul li {
+    padding: 30px 0; }
+
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom ul li a {
+    padding: 0 10px;
+    height: 40px;
+    line-height: 40px; }
+
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom ul li:last-child {
+    margin: 0; }
+
+  .footer-home-three .footer-bottom-home-three {
+    height: 100px;
+    line-height: 100px; } }
+@media (max-width: 991px) {	  .upcoming-event-home-three .slider-wrap{	left: 5% !important; }	  .ev-title-page h3{	text-align: center;	top: -80px;	width: 100%;	padding: 0;	display: block; 	left: 0;	transform: translateX(0);    -webkit-transform: translateX(0);    -moz-transform: translateX(0);    -ms-transform: translateX(0);    -o-transform: translateX(0); }
+  .sec-padding-large, .sec-padding, .footer {
+    padding: 50px 0; }
+
+  .frequently-question-home-two.sec-padding-large {
+    padding-bottom: 20px; }
+
+  .latest-blog-home-five.sec-padding-large {
+    padding-bottom: 50px; }
+
+  .our-spearker-home-five.sec-padding-large {
+    padding-bottom: 0; }
+
+  .upcoming-event-home-four.sec-padding {
+    padding-bottom: 0; }
+
+  .joing-our-event-home-three.sec-padding {
+    padding: 50px 0; }
+
+  .upcoming-event-home-four.sec-padding {
+    padding-top: 50px; }
+
+  .about-event-countdown-home-five.sec-padding {
+    padding-top: 50px;
+    padding-bottom: 20px; }
+
+  .about-event-home-four.sec-padding {
+    padding-bottom: 80px; }
+
+  .about-event-countdown-home-three.sec-padding {
+    padding-bottom: 50px; }
+
+  .highlight-home-three.sec-padding {
+    padding-bottom: 20px; }
+
+  .frequently-question-home-two.sec-padding {
+    padding-bottom: 20px; }
+
+  .buy-ticket-home-two.sec-padding {
+    padding-bottom: 50px; }
+
+  .ev-container-full {
+    padding: 0 15px; }
+
+  .home .top-bar .content-wrap {
+    height: 450px; }
+
+  .home .top-bar .content-wrap p {
+    font-size: 30px; }
+
+  .home .top-bar .content-wrap img {
+    width: 80%;
+    margin: auto;
+    display: block; }
+
+  .menu-primary {
+    display: none; }
+
+  #menu_primary_toggle {
+    display: block; }
+
+  .home .header .ev-navbar .height.logo-text {
+    width: 80%; }
+
+  .about .box-about {
+    padding: 105px 25px; }
+
+  .featured-event .event-item .content h3 {
+    font-size: 25px; }
+
+  .featured-event .event-item .content p {
+    margin-bottom: 15px; }
+
+  .featured-event .event-item .content a.ev-button {
+    padding: 9px 25px; }
+
+  .watch-video .sec-padding {
+    padding: 70px 0; }
+
+  .watch-video .play {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px; }
+
+  .watch-video h3 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 20px; }
+
+  .watch-video .ev-button-center {
+    margin-top: 30px; }
+
+  .home-two .top-bar .meta-header-home-two {
+    display: none; }
+
+  .home-two .top-bar .logo-margin {
+    margin: auto; }
+
+  .home-two .header .menu-primary {
+    display: none; }
+
+  .home-two .header .menu-search > li {
+    float: left; }
+
+  .home-two .header .menu-search > li > a .icon {
+    float: none; }
+
+  .home-two .header #menu_primary_toggle .icon {
+    height: 70px;
+    line-height: 70px;
+    color: #1e2c34;
+    opacity: 0.35; }
+
+  .home-two .header .menu-search, .home-two .header .menu-home {
+    width: 5% !important;
+    float: left; }
+
+  .home-two .header .menu-home {
+    margin-right: 20px; }
+
+  .event-register-home-two.sec-padding-big {
+    padding: 100px 0; }
+
+  .event-register-home-two .ev-box-title h3 {
+    font-size: 50px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 147px solid transparent;
+    border-right: 147px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 147px solid transparent;
+    border-right: 147px solid transparent; }
+
+  .home-three .header .ev-container-full .ev-navbar .box {
+    width: 80%;
+    justify-content: flex-start; }
+
+  .home-three .header .ev-container-full {
+    padding: 0 15px; }
+
+  .our-testimonials-home-three .uk-slidenav-position .uk-slideset li .item p {
+    padding: 40px 200px 0 200px; }
+
+  .upcoming-event-home-three .slider-wrap.slider-wrap-one {
+    left: 1%; }
+
+  .upcoming-event-home-three .slider-wrap.slider-wrap-two {
+    left: 3%; }
+
+  .upcoming-event-home-three .slider-wrap.slider-wrap-three {
+    left: 5%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -19%; }
+
+  .home-four .next-event-count-down.sec-padding-big {
+    padding: 150px 0; }
+
+  .home-four .header .menu-media {
+    top: 150px; }
+
+  .home-four .find-event .uk-form {
+    height: auto; }
+
+  .home-four .find-event .uk-form .uk-form-icon {
+    display: block;
+    line-height: 60px;
+    width: 250px;
+    margin: 0 auto; }
+
+  .home-four .find-event .uk-form .uk-form-icon input, .home-four .find-event .uk-form .uk-form-icon select {
+    width: 100%;
+    margin: 0; }
+
+  .home-four .find-event .uk-form .ev-button {
+    margin: 0; }
+
+  .highlight-home-four.highlight-home-three .box .box-body .content {
+    padding-left: 0; }
+
+  .our-spearker-home-four .box .box-img .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px; }
+
+  .our-spearker-home-four .box .box-img {
+    max-height: 148px; }
+
+  .our-spearker-home-four .box:hover .box-img .icon {
+    top: 20px; }
+
+  .our-spearker-home-four .box .box-body .box-content {
+    padding: 20px 10px; }
+
+  .our-spearker-home-four .box .box-body .box-content li {
+    padding: 0 7px; }
+
+  .home-five .next-event-count-down .border-bottom, .footer-home-five .border-top {
+    display: none; }
+
+  .about-event-home-five.sec-padding {
+    padding: 50px 0; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 315px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 315px solid transparent; }
+
+  .footer-home-five.sec-padding {
+    padding-top: 50px; }
+
+  .footer-home-two .menu-icon ul li:first-child {
+    margin-left: 0; }
+
+  .contact-us-page .meta .box-meta {
+    padding: 45px; }
+
+  .event-detail-page .event-grid-2-column-page, .event-list-width-sidebar-page .uk-container .sec-padding-left > .uk-width-medium-2-3, .event-list-width-sidebar-page .uk-container .sec-padding-left > .uk-width-medium-1-3 {
+    margin: auto;
+    width: 100%; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent; }
+
+  .event-detail-page .event-grid-2-column-page .our-spearker-home-four .box .box-img .icon {
+    width: 60px;
+    height: 60px;
+    line-height: 60px; }
+
+  .event-detail-page .event-grid-2-column-page .our-spearker-home-four .box:hover .box-img .icon {
+    top: 32%; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 214px; }
+
+  .event-detail-page .event-list-width-sidebar-page {
+    margin-top: 30px;
+    width: 100%;
+    margin: auto; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-related .box-img {
+    max-height: none; }
+
+  .event-list-width-sidebar-page .sidebar-event .category-event {
+    margin-top: 40px; }
+
+  .event-detail-page.sec-padding {
+    padding-bottom: 20px; }
+
+  .event-list-width-sidebar-page.event-grid-3-column-page .box .event-price {
+    bottom: -70px;
+    line-height: 75px; }
+
+  .event-list-width-sidebar-page.event-grid-3-column-page .box .event-price span {
+    padding-left: 0; }
+
+  .event-list-width-sidebar-page.sec-padding {
+    padding-bottom: 24px; }
+
+  .blog-detail-page .leave-comment .ev-box-title h3 {
+    text-align: center;
+    padding-bottom: 30px; }
+
+  .home-two .header .uk-dropdown-bottom {
+    left: 0 !important;
+    right: initial !important; }
+ }
+@media (max-width: 961px) {
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 305px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 305px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 125px solid transparent;
+    border-right: 125px solid transparent; } }
+@media (max-width: 941px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 139px solid transparent;
+    border-right: 139px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 139px solid transparent;
+    border-right: 139px solid transparent; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 298px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 298px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 122px solid transparent;
+    border-right: 122px solid transparent; } }
+@media (max-width: 921px) {
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 292px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 292px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 118px solid transparent;
+    border-right: 118px solid transparent; } }
+@media (max-width: 891px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 130px solid transparent;
+    border-right: 130px solid transparent; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 281px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 281px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 113px solid transparent;
+    border-right: 113px solid transparent; } }
+@media (max-width: 841px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 122px solid transparent;
+    border-right: 122px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 122px solid transparent;
+    border-right: 122px solid transparent; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 12%; }
+
+  .upcoming-event-home-three .box-right .ev-box-title h3 {
+    font-size: 50px; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 265px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 265px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent; } }
+@media (max-width: 821px) {
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 258px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 258px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 103px solid transparent;
+    border-right: 103px solid transparent; }
+
+  .upcoming-event-home-four .uk-container .uk-grid .uk-width-medium-1-3 {
+    width: 100%; } }
+@media (max-width: 791px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 114px solid transparent;
+    border-right: 114px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 114px solid transparent;
+    border-right: 114px solid transparent; }
+
+  .upcoming-event-home-three .box-right .ev-box-title {
+    right: -21%; }
+
+  .upcoming-event-home-three .slider-up-down {
+    right: 10%; }
+
+  .upcoming-event-home-three .slider-up-down a .icon {
+    font-size: 30px; }
+
+  .upcoming-event-home-three .slider-up-down:before {
+    width: 35px; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after {
+    border-right: 248px solid transparent; }
+
+  .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    border-left: 248px solid transparent; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent; } }
+@media (max-width: 767px) {   .upcoming-event-home-three .box-right{	height: auto; }  .ev-title-page h3{	top: -100px; }  .about-event-home-five .uk-position .bg-img, .about-event-home-five .uk-position .bg-img-top{	max-height: none !important; }  .about-event-home-four .uk-position.icon-top .icon{	bottom: 95%; }  .about-event-home-four .uk-position:hover.icon-top .icon{	bottom: 75%; }  .about-event-home-four .uk-position{	margin-bottom: 30px; }	  .blog-3-column-page.sec-padding{	padding-top: 70px; }
+  .box-img-big {
+    width: 96.5%;
+    height: 250px;
+    margin-left: 25px;
+    margin-bottom: 30px; }
+  
+  .event-detail-page .leave-comment #post_comment .button-center {
+    text-align: center; }
+
+  .event-detail-page .leave-comment #post_comment .uk-form-icon {
+    width: 100%; }
+
+  .event-detail-page .box-body .event-price {
+    top: -50px;
+    left: 50%;
+    line-height: 150px;
+    text-align: center; }
+
+  .event-detail-page .box-body h3 {
+    padding-top: 30px;
+    text-align: center; }
+
+  .event-detail-page .box-body .event-price {
+    width: 100px;
+    height: 100px; }
+
+  .event-detail-page .box-body .event-price span {
+    padding-left: 0; }
+
+  .event-grid-3-column-page .box .box-content {
+    text-align: center; }
+
+  .sec-padding {
+    padding: 50px 0; }
+
+  .home .top-bar .content-wrap {
+    height: 350px; }
+
+  .home .top-bar .content-wrap img {
+    width: 60%; }
+
+  .home .top-bar .content-wrap p {
+    font-size: 25px; }
+
+  .featured-event .event-item .uk-overlay {
+    width: 100%; }
+
+  .fact-counter .countto-content {
+    margin-bottom: 20px; }
+
+  .watch-video .play {
+    width: 70px;
+    margin-bottom: 10px; }
+
+  .watch-video h3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 10px; }
+
+  .watch-video p strong {
+    font-size: 14px; }
+
+  .watch-video p span.ev-color-primary {
+    padding: 0 10px; }
+
+  .our-spearker .single-our-spearker .uk-overlay {
+    width: 100%; }
+
+  .our-spearker .single-our-spearker .uk-overlay img {
+    width: 100%; }
+
+  .contact-us .map-meta .box-content {
+    padding: 10px 0; }
+
+  .contact-us .map-meta .box-content .box-icon {
+    padding: 10px; }
+
+  .contact-us .map-meta .box-content .box-icon .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border: 10px solid #f4f4f4; }
+
+  .footer {
+    padding: 20px 0; }
+
+  .footer .footer-social li a {
+    padding: 0 12px; }
+
+  .footer .back-to-top, .footer .footer-social {
+    margin-bottom: 30px; }
+
+  .conference .conference-wrap:first-child .box-content {
+    padding-top: 50px;
+    border-top: 1px solid #e2e2e2; }
+
+  .conference .conference-date {
+    margin-bottom: 30px; }
+
+  .conference .conference-wrap:first-child .box-img {
+    margin-top: 50px; }
+
+  .home-two .top-bar .logo-margin .logo {
+    margin: auto;
+    display: block; }
+
+  .event-register-home-two.sec-padding-big {
+    padding: 50px 0; }
+
+  .event-register-home-two .ev-box-title h3 {
+    font-size: 35px;
+    line-height: 45px; }
+
+  .event-register-home-two .ev-box-title p {
+    font-size: 15px; }
+
+  .event-register-home-two .ev-box-title .ev-border-line-primary {
+    margin: 15px auto 20px auto; }
+
+  .event-register-home-two .box-meta {
+    padding-bottom: 20px; }
+
+  .event-register-home-two .box-meta p {
+    font-size: 12px; }
+
+  .event-register-home-two .box-meta p strong {
+    font-size: 14px; }
+
+  .event-register-home-two .ev-button {
+    margin-top: 10px; }
+
+  .event-register-home-two .ev-button {
+    padding: 0 20px; }
+
+  .event-register-home-two .ev-button span {
+    padding-right: 15px; }
+
+  .conference-home-two .conference-wrap .box-content {
+    border-top: 5px 10px; }
+
+  .conference-home-two .conference-wrap:first-child .box-content {
+    border-top: 2px solid #e2e2e2; }
+
+  .conference-home-two .conference-wrap:hover .box-content, .conference-home-two .conference-wrap.uk-active .box-content {
+    border-top: 2px solid #62bd5c; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 358px solid transparent;
+    border-right: 358px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 358px solid transparent;
+    border-right: 358px solid transparent; }
+
+  .ticket-list-home-two .box {
+    margin-bottom: 20px; }
+
+  .our-gallery-home-two .our-gallery-menu li {
+    margin-bottom: 10px; }
+
+  .buy-ticket-home-two .table-ticket .box-padding {
+    margin: 0 20px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img:last-child {
+    margin-bottom: 30px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img.box-img-big {
+    height: auto; }
+
+  .blogger-event-home-two .uk-dotnav {
+    margin-top: 35px; }
+
+  .blogger-event-home-two .uk-slidenav-position:hover a.uk-slidenav {
+    margin-top: -50px; }
+
+  .footer-home-two .ev-box-title h3 {
+    padding-top: 30px; }
+
+  .footer-home-two .footer-bottom-home-two a .icon {
+    margin-top: 20px; }
+
+  .footer-home-two .footer-bottom-home-two p {
+    text-align: center;
+    padding: 15px 0; }
+
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom {
+    display: none; }
+
+  .footer-home-two .footer-bottom-home-two {
+    line-height: normal;
+    height: auto; }
+
+  .home-three .header-content .ev-border-line-primary {
+    margin-top: 150px; }
+
+  .home-three .header-content .ev-box-title h3 {
+    font-size: 45px;
+    line-height: 50px; }
+
+  .home-three .header-content .ev-box-title p {
+    font-size: 15px; }
+
+  .home-three .header-content .count-down {
+    padding: 60px 0; }
+
+  .home-three .header-content .count-down li {
+    display: block;
+    margin: 0 auto 20px auto; }
+
+  .about-event-home-three .slider .cascade-slider_container {
+    height: 450px; }
+
+  .about-event-home-three .slider .cascade-slider_dot {
+    float: none;
+    width: auto;
+    padding: 15px 0; }
+
+  .about-event-home-three .slider .cascade-slider_nav {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%); }
+
+  .about-event-home-three .slider .cascade-slider_dot h3 {
+    font-size: 20px; }
+
+  .about-event-home-three .slider .cascade-slider_item {
+    top: 70%; }
+
+  .about-event-home-three .slider .cascade-slider_arrow {
+    top: 60%; }
+
+  .about-event-countdown-home-three.sec-padding {
+    padding-bottom: 61px; }
+
+  .about-event-countdown-home-three .ev-box-icon-circle {
+    margin-bottom: 30px; }
+
+  .our-testimonials-home-three .uk-slidenav-position .uk-slideset li .item p {
+    padding: 30px 15px; }
+
+  .our-testimonials-home-three .uk-slidenav-position .uk-slidenav {
+    display: none; }
+
+  .event-faqs-home-three .event-faqs-content {
+    margin-top: 30px; }
+
+  .blogger-event-home-three .uk-slidenav-position:hover a.uk-slidenav {
+    top: -25px; }
+
+  .footer-home-three .newstter h3, .footer-home-three .newstter .uk-form, .footer-home-three .footer-meta-home-three {
+    text-align: center; }
+
+  .footer-home-three .newstter .uk-form input {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 100%; }
+
+  .footer-home-three .newstter .uk-form .ev-button {
+    margin: 0; }
+
+  .upcoming-event-home-three .box-border .box-left .content {
+    width: 245px;
+    height: 245px; }
+
+  .upcoming-event-home-three .box-border .box-left .content .text-content {
+    padding: 47px 15px; }
+
+  .upcoming-event-home-three .box-border .box-left .content .text-content h3 {
+    font-size: 18px; }
+
+  .upcoming-event-home-three .box-border .box-left .content .text-content .ev-border-line-primary {
+    margin: 10px auto; }
+
+  .upcoming-event-home-three .box-border .box-left .content .text-content p {
+    font-size: 12px; }
+
+  .upcoming-event-home-three .box-border .box-left, .upcoming-event-home-three .box-right {
+    padding: 15px; }
+
+  .upcoming-event-home-three .slider-wrap .box-circle {
+    float: none;
+    margin: auto; }
+
+  .upcoming-event-home-three .slider-wrap.slider-wrap-one {
+    border-radius: 0; }
+
+  .upcoming-event-home-three .slider-wrap .box-circle {
+    float: none;
+    margin: auto; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content {
+    left: 0;
+    top: -90px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content {
+    margin: auto;
+    left: 0;
+    float: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 150px;
+    border-bottom-left-radius: 150px;
+    padding: 100px 40px 50px 40px;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center; }
+
+  .upcoming-event-home-three .slider-wrap {
+    display: block;
+    left: 0 !important;
+    top: 0 !important; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content .slider-ticket {
+    bottom: 110px;
+    width: 100px; }
+
+  .upcoming-event-home-three .slider-wrap .slider-content .box-content .ev-button-center .ev-button {
+    display: block;
+    font-size: 14px;
+    padding: 0; }
+
+  .upcoming-event-home-three .box-right .ev-box-title, .upcoming-event-home-three .slider-up-down {
+    display: none; }
+
+  .upcoming-event-home-three .slider-wrap.uk-active .box-circle .box-circle-thumbnai .uk-overlay-background {
+    transform: scale(0); }
+
+  .upcoming-event-home-three .slider-wrap:hover .box-circle .box-circle-thumbnai .uk-overlay-background {
+    transform: scale(1); }
+
+  .about-event-home-four .uk-position .ev-box-title {
+    background: #ffffff; }
+
+  .about-event-home-four .uk-position.box-even .ev-box-title {
+    margin-top: 260px;
+    z-index: 999999; }
+
+  .about-event-home-four .uk-position.box-even .bg-img-top {
+    top: 0; }
+
+  .about-event-home-four .uk-position .bg-img:before {
+    border-bottom: 35px solid white;
+    border-right: 35px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img:after {
+    border-bottom: 35px solid white;
+    border-left: 35px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img-top .icon {
+    bottom: auto;
+    top: -30px; }
+
+  .about-event-home-four .uk-position:hover .bg-img-top .icon {
+    bottom: auto;
+    top: 30%; }
+
+  .about-event-home-four .uk-position .bg-img-top:before {
+    top: auto;
+    bottom: 15px;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 35px solid white;
+    border-right: 35px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img-top:after {
+    top: auto;
+    bottom: 15px;
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 35px solid white;
+    border-left: 35px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img-top .border-botom-left {
+    box-shadow: -15px 15px 0 0 #ffffff;
+    top: auto;
+    bottom: 50px; }
+
+  .about-event-home-four .uk-position .bg-img-top .border-botom-right {
+    box-shadow: 15px 15px 0 0 #ffffff;
+    top: auto;
+    bottom: 50px; }
+
+  .about-event-home-four .uk-position .bg-img, .about-event-home-four .uk-position .bg-img-top {
+    max-height: 275px; }
+
+  .about-event-home-four .uk-position .bg-img .border-botom-left, .about-event-home-four .uk-position .bg-img .border-botom-right {
+    bottom: 35px; }
+
+  .our-spearker-home-four .box .box-img .icon {
+    width: 60px;
+    height: 60px;
+    line-height: 60px; }
+
+  .our-spearker-home-four .box .box-img {
+    max-height: 350px; }
+
+  .our-spearker-home-four .box:hover .box-img .icon {
+    top: 110px; }
+
+  .latest-blog-home-four .box-img {
+    margin-bottom: 30px; }
+
+  .about-event-home-five .uk-position:before, .about-event-home-five .uk-position.box-mid:after, .about-event-home-five .uk-position.box-mid:before, .about-event-home-five .uk-position:after {
+    display: none; }
+
+  .about-event-home-five .uk-position {
+    margin-bottom: 30px; }
+
+  .about-event-home-five.sec-padding {
+    padding-bottom: 70px; }
+
+  .about-event-countdown-home-five .uk-container .uk-grid .uk-width-medium-1-4 {
+    margin: 0; }
+
+  .ticket-list.sec-padding {
+    padding-bottom: 20px; }
+
+  .ticket-list .box {
+    margin-bottom: 30px; }
+
+  .upcoming-event-home-two .uk-overlay {
+    margin-top: 30px; }
+
+  .event-our-speaker-page.sec-padding, .about-us-page.sec-padding, .gmap.sec-padding, .gallery-full-width-page.sec-padding, .event-grid-3-column-page.sec-padding {
+    padding: 70px 0; }
+
+  .contact-us-page .meta {
+    margin-top: 30px; }
+
+  .gallery-full-width-page .our-gallery-menu {
+    padding: 0 15px; }
+
+  .gallery-4-column-page .our-gallery-menu {
+    padding: 0; }
+
+  .event-list-width-sidebar-page .sidebar-event .category-event {
+    padding: 60px 15px 50px 15px; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .meta h5 span:before {
+    display: none; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .content {
+    margin-top: 10px; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .meta h5 span {
+    display: block; }
+
+  .event-list-width-sidebar-page .box .box-content p {
+    padding: 20px 0; }
+
+  .event-list-width-sidebar-page.sec-padding {
+    padding-bottom: 0; }
+
+  .event-detail-page.sec-padding {
+    padding: 70px 0 20px 0; }
+
+  .event-detail-page .event-grid-2-column-page .ticket-list-home-two .uk-grid .uk-width-medium-1-3 {
+    width: 322px;
+    margin: auto; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 147px solid transparent;
+    border-right: 147px solid transparent;
+    border-top: 25px solid #f2f2f2; }
+
+  .event-detail-page .box-body .ticket-list-home-two .ev-box-title h3 {
+    text-align: center; }
+
+  .event-detail-page .conference-home-two .conference-wrap .box-img {
+    margin: 0 auto 20px auto; }
+
+  .event-detail-page .conference-home-two .conference-wrap:before, .event-detail-page .conference-home-two .conference-wrap:nth-child(4):before {
+    display: none; }
+
+  .event-detail-page .conference-home-two .conference-wrap {
+    margin-left: -30px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 350px; }
+
+  .event-detail-page .leave-comment #send_mail .uk-form-icon {
+    width: 100%; }
+
+  .event-grid-3-column-page .pagination {
+    margin-top: 0; }
+
+  .event-list-width-sidebar-page.event-list-width-sidebar-page.event-grid-3-column-page .box .event-price {
+    bottom: -50px;
+    line-height: 60px; }
+
+  .blog-detail-page .blog-next-prev:before {
+    display: none; }
+
+  .blog-detail-page .box-body {
+    padding: 50px 20px;
+    text-align: center; }
+
+  .blog-detail-page .box-body .box-member .box-thumbnai {
+    float: none;
+    margin: 0 auto 10px auto; }
+
+  .blog-detail-page .box-body .box-member, .blog-detail-page .blog-next-prev.box-body, .blog-detail-page .leave-comment {
+    padding: 30px 20px; }
+
+  .blog-detail-page .box-body .post-prev.box-member, .blog-detail-page .box-body .post-next.box-member {
+    text-align: center;
+    padding: 0; }
+
+  .blog-detail-page .box-body .post-prev.box-member {
+    padding-bottom: 30px; }
+
+  .blog-detail-page .box-body .box-content blockquote {
+    padding-left: 15px;
+    margin: 15px 0; }
+
+  .event-detail-page .box-body {
+    padding: 50px 20px;
+    text-align: center; }
+
+  .event-detail-page .box-body .ticket-list-home-two {
+    padding: 0 30px; }
+
+  .event-detail-page .conference-home-two, .event-detail-page .our-spearker-home-four, .event-detail-page .leave-comment {
+    padding: 50px 20px; }
+
+  .event-detail-page .leave-comment .ev-box-title h3 {
+    text-align: center; }
+
+  .event-detail-page .leave-comment #send_mail .button-center {
+    text-align: center; }
+
+  .event-detail-page .event-list-width-sidebar-page .sidebar-event .category-event {
+    margin-top: 84px; } }
+@media (max-width: 717px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 333px solid transparent;
+    border-right: 333px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 333px solid transparent;
+    border-right: 333px solid transparent; } }
+@media (max-width: 680px) {
+  .box-img-big {
+    width: 96%; }
+  .event-register-home-two #event_register label:before {
+    top: 53px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 315px solid transparent;
+    border-right: 315px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 315px solid transparent;
+    border-right: 315px solid transparent; } }
+@media (max-width: 637px) {
+  .box-img-big {
+    width: 95.5%; }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 293px solid transparent;
+    border-right: 293px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 293px solid transparent;
+    border-right: 293px solid transparent; } }
+@media (max-width: 617px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 283px solid transparent;
+    border-right: 283px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 283px solid transparent;
+    border-right: 283px solid transparent; }
+
+  .about-event-countdown-home-five .uk-container .uk-grid .uk-width-medium-1-4 {
+    width: 100%; } }
+@media (max-width: 579px) {
+  .box-img-big {
+    width: 95%; }
+  .home-two .header .menu-home {
+    margin-right: 35px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 264px solid transparent;
+    border-right: 264px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 264px solid transparent;
+    border-right: 264px solid transparent; } }
+@media (max-width: 559px) {
+  .home-two .header .menu-home {
+    margin-right: 35px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 254px solid transparent;
+    border-right: 254px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 254px solid transparent;
+    border-right: 254px solid transparent; } }
+@media (max-width: 529px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 239px solid transparent;
+    border-right: 239px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 239px solid transparent;
+    border-right: 239px solid transparent; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .uk-slidenav.uk-slidenav-previous {
+    right: initial;
+    left: 30%; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .uk-slidenav.uk-slidenav-next {
+    right: initial;
+    left: 55%; }
+
+  .event-detail-page .our-spearker-home-four .ev-box-title h3 {
+    padding-bottom: 120px;
+    text-align: center; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 238px; }
+
+  .event-detail-page .box-body {
+    padding-top: 70px; } }
+@media (max-width: 499px) {
+  .box-img-big {
+    width: 94.5%; }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 224px solid transparent;
+    border-right: 224px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 224px solid transparent;
+    border-right: 224px solid transparent; } }
+@media (max-width: 479px) {	  .ev-title-page h3{	display: block;    top: -130px;    width: 170px;    padding: 10px 30px;    text-align: center;    left: 50%;	transform: translateX(-50%);    -webkit-transform: translateX(-50%);    -moz-transform: translateX(-50%);    -ms-transform: translateX(-50%);    -o-transform: translateX(-50%); }	  .ev-title-page h3 a{	height: auto;    line-height: 30px;    padding: 0;	display: block; }	  .ev-title-page h3 a:before{	display: none; }
+  .box-img-big {
+    width: 94%; }
+  .home .top-bar .content-wrap {
+    height: 250px; }
+
+  .home .top-bar .content-wrap .button {
+    margin-top: 20px; }
+
+  .home .top-bar .content-wrap img {
+    width: 50%; }
+
+  .home .top-bar .content-wrap p {
+    font-size: 20px; }
+
+  .home .top-bar .content-wrap .ev-button {
+    font-size: 14px;
+    padding: 13px 25px; }
+
+  .home .header .ev-navbar .height.logo-text {
+    width: 55%; }
+
+  .home .header .ev-navbar .logo-text a img {
+    width: 100%;
+    max-width: 134px; }
+
+  #menu_primary_toggle .icon {
+    font-size: 35px; }
+
+  .featured-event .event-item .content .event-icon {
+    margin-bottom: 15px; }
+
+  .featured-event .event-item .content h3 {
+    font-size: 18px;
+    margin-bottom: 10px; }
+
+  .featured-event .event-item .content p {
+    font-size: 12px; }
+
+  .conference .conference-wrap .box-img {
+    width: 83px;
+    height: 83px; }
+
+  .conference .conference-wrap .box-img img {
+    width: 65px;
+    height: 65px; }
+
+  .conference .conference-wrap .box-content {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    border-right: none; }
+
+  .conference .conference-wrap .box-content .title {
+    font-size: 20px;
+    margin: 15px 0; }
+    .conference .conference-wrap .box-content .title span {
+      padding-left: 0; }
+
+  .conference .conference-wrap .box-content .meta {
+    font-size: 12px; }
+
+  .conference .conference-wrap .box-content .meta .bull {
+    padding: 0 5px; }
+
+  .conference .conference-wrap .box-download {
+    margin: 0;
+    text-align: center;
+    border-right: none; }
+
+  .conference .conference-wrap .box-download .ev-button {
+    font-size: 14px;
+    padding: 13px 30px; }
+
+  .footer .footer-social {
+    display: none; }
+
+  .conference .conference-wrap:first-child {
+    padding-top: 50px;
+    border-top: 1px solid #e2e2e2; }
+
+  .conference .conference-wrap:first-child .box-content {
+    padding-top: 0;
+    border-top: none; }
+
+  .about-event-countdown-home-two .ev-box-icon-circle .box-speaker .box-icon {
+    width: 230px;
+    height: 230px; }
+
+  .about-event-countdown-home-two .ev-box-icon-circle .box-speaker .box-icon a .icon {
+    width: 190px;
+    height: 190px;
+    line-height: 190px;
+    font-size: 80px;
+    line-height: 190px;
+    margin-top: 20px; }
+
+  .about-event-countdown-home-two .ev-box-icon-circle .box-speaker .box-icon p {
+    font-size: 20px; }
+
+  .conference-home-two .conference-wrap:before {
+    display: none; }
+
+  .conference-home-two .conference-wrap .box-content {
+    border: 2px solid #f0f0f0; }
+
+  .conference-home-two .conference-wrap:first-child .box-content {
+    border: 2px solid #f0f0f0; }
+
+  .conference-home-two .conference-wrap:hover .box-content, .conference-home-two .conference-wrap.uk-active .box-content {
+    border: 2px solid #62bd5c; }
+
+  .conference-home-two .conference-wrap .box-img {
+    margin: 0 auto 20px auto; }
+
+  .conference .conference-wrap:first-child .box-img {
+    margin-top: 0; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming {
+    left: -129px; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming h3 {
+    font-size: 30px;
+    line-height: 60px;
+    padding: 0 40px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content h3 {
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 5px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content a .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content p {
+    font-size: 12px; }
+
+  .upcoming-event-home-two .uk-overlay > .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 214px solid transparent;
+    border-right: 214px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 214px solid transparent;
+    border-right: 214px solid transparent; }
+
+  .member-home-two .info-member {
+    padding: 40px 15px; }
+
+  .member-home-two .info-member .images {
+    display: block;
+    border: none; }
+
+  .member-home-two .info-member .images .box-img {
+    margin: 0 auto 20px auto;
+    padding: 15px; }
+
+  .member-home-two .info-member .text-content {
+    display: block;
+    text-align: center;
+    padding: 0; }
+
+  .member-home-two .info-member:before {
+    top: 8px;
+    right: 3px; }
+
+  .member-home-two .info-member:after {
+    border-top: 70px solid #62bd5c;
+    border-left: 70px solid transparent; }
+
+  .member-home-two .menu-member li a {
+    padding: 0 10px; }
+
+  .footer-home-two .menu-icon, .footer-home-two .meta .thumbnai-map, .footer-home-two .meta:before {
+    display: none; }
+
+  .footer-home-two .meta {
+    margin-bottom: 65px; }
+
+  .home-three .header .ev-container-full .ev-navbar .box {
+    width: 44%; }
+
+  .highlight-home-three .box .box-body {
+    padding: 25px; }
+
+  .highlight-home-three .box .box-body .icon-wraper {
+    display: block; }
+
+  .highlight-home-three .box .box-body .icon-wraper .box-icon {
+    margin: auto; }
+
+  .highlight-home-three .box .box-body .content {
+    display: block;
+    padding-left: 0;
+    text-align: center; }
+
+  .highlight-home-three .box .box-body .content .ev-border-line-primary {
+    margin: 30px auto; }
+
+  .event-faqs-home-three .box {
+    padding: 50px 15px; }
+
+  .event-faqs-home-three .box .box-content .box-img {
+    display: block;
+    margin: auto; }
+
+  .event-faqs-home-three .box .box-content .content {
+    display: block;
+    padding-left: 0;
+    padding-top: 30px;
+    text-align: center; }
+
+  .event-faqs-home-three .ev-box-title {
+    text-align: center; }
+
+  .event-faqs-home-three .box .box-content .content .ev-border-line-primary {
+    margin-left: auto;
+    margin-right: auto; }
+
+  .event-faqs-home-three .event-faqs-content .box-body .text-content {
+    padding: 57px 20px; }
+
+  .event-faqs-home-three .event-faqs-content .box-body .title {
+    padding: 21px 50px 21px 20px; }
+
+  .event-faqs-home-three .event-faqs-content .box-body .title span {
+    right: 20px; }
+
+  .latest-blog-home-three .uk-slideset .box-thumbnai .uk-overlay-background a .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px; }
+
+  .uk-slidenav-position .uk-slidenav-previous {
+    left: -5px; }
+
+  .uk-slidenav-position .uk-slidenav-next {
+    right: 5px; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta {
+    height: 30px;
+    line-height: 30px; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta span {
+    display: block; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta span:first-child:before {
+    display: none; }
+
+  .latest-blog-home-three .uk-slideset .box-content {
+    padding-top: 55px; }
+
+  .home-four .header, .home-four .header .ev-navbar, .home-four .header .ev-navbar .box {
+    height: 100px; }
+
+  .home-four .header .ev-navbar .box a img {
+    width: 150px;
+    height: auto; }
+
+  .home-four .header .ev-navbar #menu_primary_toggle .icon {
+    height: 100px;
+    line-height: 100px; }
+
+  .home-four .header .menu-media {
+    top: 100px; }
+
+  .home-four .next-event-count-down.sec-padding-big {
+    padding: 100px 0; }
+
+  .home-four .next-event-count-down .count-down li {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px; }
+
+  .home-four .next-event-count-down .count-down li:before {
+    transform: skewX(0deg);
+    -moz-transform: skewX(0deg);
+    -webkit-transform: skewX(0deg);
+    -o-transform: skewX(0deg);
+    -ms-transform: skewX(0deg); }
+
+  .home-four .next-event-count-down .count-down li:after {
+    left: 50%;
+    transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); }
+
+  .home-four .next-event-count-down .ev-box-title {
+    margin-top: 20px; }
+
+  .home-four .next-event-count-down .ev-box-title h3 {
+    font-size: 25px;
+    line-height: 30px; }
+
+  .about-event-home-four .uk-position .ev-box-title {
+    background: #ffffff; }
+
+  .about-event-home-four .uk-position .bg-img:before, .about-event-home-four .uk-position .bg-img-top:before {
+    bottom: 0;
+    border-bottom: 20px solid white;
+    border-right: 20px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img:after, .about-event-home-four .uk-position .bg-img-top:after {
+    bottom: 0;
+    border-bottom: 20px solid white;
+    border-left: 20px solid transparent; }
+
+  .about-event-home-four .uk-position .bg-img, .about-event-home-four .uk-position .bg-img-top {
+    max-height: 260px; }
+
+  .about-event-home-four .uk-position .bg-img-top .border-botom-left, .about-event-home-four .uk-position .bg-img-top .border-botom-right, .about-event-home-four .uk-position .bg-img .border-botom-left, .about-event-home-four .uk-position .bg-img .border-botom-right {
+    bottom: 20px; }
+
+  .about-event-home-four .uk-position .bg-img .icon, .about-event-home-four .uk-position .bg-img-top .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px; }
+
+  .upcoming-event-home-four .box-circle {
+    width: 246px;
+    height: 246px; }
+
+  .upcoming-event-home-four .box-circle .box-content .box-icon {
+    margin-bottom: 15px; }
+
+  .upcoming-event-home-four .box-circle .box-content .box-icon .icon {
+    font-size: 50px; }
+
+  .upcoming-event-home-four .box-circle .box-content .ev-box-title h3 {
+    padding-bottom: 15px;
+    font-size: 25px; }
+
+  .upcoming-event-home-four .box-circle .box-content .uk-dotnav {
+    bottom: 25px; }
+
+  .upcoming-event-home-four .box-circle .box-content {
+    padding: 20px 10px; }
+
+  .upcoming-event-home-four .box-circle .box-content .uk-dotnav li {
+    width: 15px; }
+
+  .upcoming-event-home-four .box-circle .box-circle-small {
+    width: 215px;
+    height: 215px; }
+
+  .upcoming-event-home-four .box-circle .box-circle-small .uk-overlay .overlay-hover {
+    top: 36%; }
+
+  .upcoming-event-home-four .box-circle .box-circle-two {
+    width: 200px;
+    height: 200px;
+    margin-top: 22px; }
+
+  .upcoming-event-home-four .box-circle .box-circle-three {
+    width: 170px;
+    height: 170px;
+    margin-top: 14px; }
+
+  .upcoming-event-home-four .box-circle .box-circle-four {
+    width: 140px;
+    height: 140px;
+    margin-top: 14px; }
+
+  .upcoming-event-home-four .box-circle .box-circle-five {
+    width: 110px;
+    height: 110px;
+    line-height: 110px;
+    top: 27%; }
+
+  .our-spearker-home-four .box .box-body .box-content li {
+    padding: 0 15px; }
+
+  .our-spearker-home-four .box .box-img {
+    max-height: 222px; }
+
+  .our-spearker-home-four .box:hover .box-img .icon {
+    top: 60px; }
+
+  .latest-blog-home-four .box .box-img-small {
+    float: none;
+    margin: 0 auto 20px auto; }
+
+  .latest-blog-home-four .box .box-content {
+    text-align: center; }
+
+  .latest-blog-home-four .ev-button-center {
+    margin-top: 50px; }
+
+  .our-spearker-home-five .box .box-img {
+    max-height: 350px; }
+
+  .about-event-home-four .uk-position {
+    margin-bottom: 30px; }
+
+  .ev-banner .ev-box-title h3 {
+    font-size: 55px;
+    line-height: 60px; }
+
+  .contact-us-page .meta .box-meta {
+    padding: 40px 15px; }
+
+  .event-detail-page .event-grid-2-column-page .ticket-list-home-two .uk-grid .uk-width-medium-1-3 {
+    width: 237px;
+    min-width: 0; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 104px solid transparent;
+    border-right: 104px solid transparent; }
+
+  .event-detail-page .box-body {
+    padding: 50px 15px;
+    text-align: center; }
+
+  .event-detail-page .conference-home-two {
+    padding: 50px 15px; }
+
+  .event-detail-page .our-spearker-home-four {
+    padding: 50px 15px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-body .box-content {
+    padding: 10px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-body .box-content li {
+    padding: 0 6px; }
+
+  .event-detail-page .event-grid-2-column-page .our-spearker-home-four .box:hover .box-img .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 217px; }
+
+  .event-detail-page .leave-comment {
+    padding: 50px 15px; }
+
+  .event-detail-page .leave-comment .ev-box-title h3 {
+    text-align: center;
+    padding-bottom: 25px; }
+
+  .event-detail-page .leave-comment #send_mail .button-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; }
+
+  .event-detail-page .conference-home-two .conference-wrap .box-content {
+    padding: 0 10px; }
+
+  .blog-3-column-page .about-event-home-five .uk-position .bg-img a .icon, .blog-3-column-page .about-event-home-five .uk-position .bg-img-top a .icon {
+    width: 70px;
+    height: 70px;
+    line-height: 70px; }
+
+  .event-list-width-sidebar-page.event-grid-3-column-page .box .box-content {
+    padding: 50px 20px; }
+
+  .blog-detail-page .leave-comment {
+    padding: 50px 20px; }
+
+  .event-detail-page .box-body .ticket-list-home-two {
+    padding: 0; } }
+@media (max-width: 460px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 205px solid transparent;
+    border-right: 205px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 205px solid transparent;
+    border-right: 205px solid transparent; } }
+@media (max-width: 440px) {	
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 195px solid transparent;
+    border-right: 195px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 195px solid transparent;
+    border-right: 195px solid transparent; } }
+@media (max-width: 420px) {
+  .box-img-big {
+    width: 93.5%; }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 190px solid transparent;
+    border-right: 190px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 190px solid transparent;
+    border-right: 190px solid transparent; } }
+@media (max-width: 400px) {
+  .box-img-big {
+    width: 93%; }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 175px solid transparent;
+    border-right: 175px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 175px solid transparent;
+    border-right: 175px solid transparent; } }
+@media (max-width: 380px) {
+  .home .top-bar .content-wrap {
+    height: 200px; }
+
+  .home .top-bar .content-wrap p {
+    font-size: 15px; }
+
+  .home .top-bar .content-wrap .button {
+    margin-top: 25px; }
+
+  .featured-event .event-item .content .event-price {
+    width: 140px;
+    height: 140px;
+    line-height: 195px;
+    top: -70px;
+    right: -80px;
+    font-size: 15px; }
+
+  .featured-event .event-item .content .event-price span {
+    padding-left: 15px; }
+
+  .featured-event .event-item .content .event-icon {
+    margin: 0; }
+
+  .featured-event .event-item .content .event-icon .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px; }
+
+  .featured-event .event-item .content h3 {
+    font-size: 14px;
+    margin: 0; }
+
+  .featured-event .event-item .content p {
+    font-size: 12px;
+    margin: 0; }
+
+  .featured-event .event-item .content a.ev-button {
+    font-size: 12px; }
+
+  .question .question-content {
+    padding: 20px 10px; }
+
+  .question .question-img .uk-overlay-panel p {
+    text-align: center;
+    padding: 0 20px; }
+
+  .question .question-content .box-content .tagline {
+    width: 70px; }
+
+  .watch-video .sec-padding {
+    padding: 50px 0; }
+
+  .ticket-list .box.uk-active .box-header h3 {
+    font-size: 30px; }
+
+  .ticket-list .box .ribon {
+    right: -15px; }
+
+  .ticket-list .box .ribon:after {
+    right: -20px;
+    border-top: 17px solid #f8f8f8;
+    border-bottom: 17px solid #f8f8f8;
+    border-right: 20px solid transparent; }
+
+  .ticket-list .box .ribon h4 {
+    padding: 10px 15px; }
+
+  .latest-blog .latest-blog-content .box-content .box-icon-pr {
+    margin-bottom: 20px; }
+
+  .latest-blog .latest-blog-content .box-content h3 {
+    font-size: 20px; }
+
+  .latest-blog .latest-blog-content .box-content .bull {
+    padding: 0 5px; }
+
+  .home-two .header .menu-home {
+    margin-right: 45px; }
+
+  .event-register-home-two #event_register input, .event-register-home-two #event_register select {
+    margin: 0 0 20px 0; }
+
+  .event-register-home-two #event_register label:before {
+    right: 22px; }
+
+  .about-event-home-two .menu-title li a {
+    padding-left: 10px;
+    font-size: 18px; }
+
+  .about-event-home-two .menu-title li a:before {
+    right: 10px;
+    font-size: 23px; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming {
+    left: -93px; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming h3 {
+    font-size: 25px;
+    line-height: 50px;
+    padding: 0 20px; }
+
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 169px solid transparent;
+    border-right: 169px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 169px solid transparent;
+    border-right: 169px solid transparent; }
+
+  .question .question-content .box-node {
+    padding-right: 10px; }
+
+  .question .question-content .box-icon {
+    right: 20px; }
+
+  .frequently-question-home-two .box .box-content .tagline {
+    width: 50px; }
+
+  .frequently-question-home-two .box:hover .box-content .tagline, .frequently-question-home-two .box.uk-active .box-content .tagline {
+    width: 70px; }
+
+  .our-spearker-home-two .box-hover .uk-overlay .uk-overlay-background .box-content h3 {
+    padding-bottom: 5px;
+    font-size: 25px; }
+
+  .our-spearker-home-two .box-hover .uk-overlay .uk-overlay-background .box-content h5 {
+    font-size: 15px;
+    padding-bottom: 5px; }
+
+  .our-spearker-home-two .box-hover .uk-overlay .uk-overlay-background .box-content p {
+    font-size: 13px; }
+
+  .our-spearker-home-two .box-hover .box-icon .b-icon a .icon {
+    width: 35px;
+    height: 35px;
+    line-height: 35px; }
+
+  .ticket-list-home-two .box:hover .box-header .uk-text-center h3, .ticket-list-home-two .box.uk-active .box-header .uk-text-center h3 {
+    font-size: 56px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content h3 {
+    font-size: 15px;
+    line-height: 23px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content p span, .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content p {
+    font-size: 12px;
+    line-height: 23px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .uk-overlay-panel {
+    padding: 0; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .icon {
+    width: 45px;
+    height: 45px;
+    line-height: 45px; }
+
+  .our-spearker-home-four .box .box-img .icon {
+    width: 50px;
+    height: 50px;
+    line-height: 50px; }
+
+  .our-spearker-home-four .box:hover .box-img .icon {
+    top: 35px; }
+
+  .our-spearker-home-four .box .box-body .box-content {
+    padding: 20px 10px; }
+
+  .our-spearker-home-four .box .box-body .box-content li {
+    padding: 0 7px; }
+
+  .our-spearker-home-four .box .box-img {
+    max-height: 163px; }
+
+  .our-spearker-home-four .box .box-body {
+    margin-top: -35px; }
+
+  .about-event-home-four .uk-position .ev-box-title {
+    padding: 30px 0; }
+
+  .about-event-home-four .uk-position .ev-box-title p {
+    padding: 0 30px 35px 30px; }
+
+  .about-event-countdown-home-five .ev-box-icon-circle .box-icon {
+    width: 230px;
+    height: 230px; }
+
+  .about-event-countdown-home-five .ev-box-icon-circle .box-icon .box-circle-background {
+    width: 200px;
+    height: 200px;
+    margin: 15px auto 0 auto; }
+
+  .about-event-countdown-home-five .ev-box-icon-circle .box-icon a .icon {
+    margin-top: 5px;
+    width: 100px;
+    height: 100px; }
+
+  .our-spearker-home-five .box .box-img {
+    max-height: 350px; }
+
+  .our-spearker-home-five .box .box-body {
+    margin-top: 0; }
+
+  .event-detail-page .event-grid-2-column-page .ticket-list-home-two .box:hover .box-header .uk-text-center h3, .ticket-list-home-two .box.uk-active .box-header .uk-text-center h3 {
+    font-size: 24px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 153px; }
+
+  .event-detail-page .sidebar-event .event-detail .uk-table tr th, .event-detail-page .sidebar-event .event-detail .uk-table tr td p, .event-detail-page .sidebar-event .event-detail .uk-table tr td ul li a, .event-detail-page .sidebar-event .event-detail .uk-table tr td p span {
+    font-size: 12px; }
+
+  .event-detail-page .sidebar-event .event-detail .uk-table tr td p span {
+    display: block; }
+
+  .event-detail-page .sidebar-event .event-detail .uk-table tr td p span:first-child:before {
+    display: none; } }
+@media (max-width: 360px) {
+  .box-img-big {
+    width: 92.5%; 
+  }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 155px solid transparent;
+    border-right: 155px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 155px solid transparent;
+    border-right: 155px solid transparent; }
+
+  .about-event-home-four .uk-position.box-even .ev-box-title {
+    margin-top: 260px; } }
+@media (max-width: 340px) {
+  .box-img-big {
+    width: 92%; 
+  }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 145px solid transparent;
+    border-right: 145px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 145px solid transparent;
+    border-right: 145px solid transparent; }
+
+  .about-event-home-four .uk-position.box-even .ev-box-title {
+    margin-top: 260px; }
+
+  .event-grid-3-column-page .box .event-price {
+    width: 140px;
+    height: 140px;
+    bottom: -65px; }
+
+  .event-grid-3-column-page .box .event-price span {
+    padding-left: 15px; }
+
+  .event-grid-2-column-page .box .event-price {
+    width: 100px;
+    height: 100px;
+    bottom: -50px; }
+
+  .event-grid-2-column-page .box .event-price span {
+    padding-left: 0; }
+
+  .event-detail-page .sidebar-event .event-venue .map h3 span {
+    padding-right: 15px;
+    float: left; } }
+@media (max-width: 320px) {  .about-event-home-four .uk-position:hover .icon{	top: 11%; }
+  .box-img-big {
+    width: 91.5%; }
+  .about-event-home-three .slider .cascade-slider_nav{
+	width: 100%; }
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 140px solid transparent;
+    border-right: 140px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 140px solid transparent;
+    border-right: 140px solid transparent; }
+
+  .about-event-home-four .uk-position.box-even .ev-box-title {
+    margin-top: 220px; }
+
+  .home-two .header .uk-dropdown-bottom {
+    left: -55px !important; } }
+@media (max-width: 292px) {
+  .ticket-list-home-two .box .box-header:before {
+    border-left: 121px solid transparent;
+    border-right: 121px solid transparent; }
+
+  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {
+    border-left: 121px solid transparent;
+    border-right: 121px solid transparent; } }	@media (max-width: 292px) {  .ticket-list-home-two .box .box-header:before {    border-left: 121px solid transparent;    border-right: 121px solid transparent; }  .ticket-list-home-two .box:hover .box-header:before, .ticket-list-home-two .box.uk-active .box-header:before {    border-left: 121px solid transparent;    border-right: 121px solid transparent; } }
+@media (min-width: 1220px) {
+  .box-img-big {
+    width: 35%;
+    padding-left: 0;
+    margin-left: 35px; } }
+@media (min-width: 992px) {
+  .header .menu-media {
+    display: none !important; } }
+@media (max-width: 1366px) and (min-width: 992px) {
+  .home-three .header .ev-container-full .ev-navbar .menu-primary {
+    width: 80%; } }
+@media (max-width: 1219px) and (min-width: 992px) {	  .blog-3-column-page .about-event-home-five .uk-position .bg-img, .blog-3-column-page .about-event-home-five .uk-position .bg-img-top{		max-height: 258px; }
+  .our-spearker-home-four .box .box-body .box-content li {
+    padding: 0 11px; }
+
+  .event-detail-page .event-grid-2-column-page .ticket-list-home-two .uk-grid .uk-width-medium-1-3 {
+    width: 300px;
+    margin: auto; }
+
+  .event-detail-page .box-body .ticket-list-home-two .box .box-header:before {
+    border-left: 136px solid transparent;
+    border-right: 136px solid transparent;
+    border-top: 25px solid #f2f2f2; }
+
+  .event-detail-page .box-body .ticket-list-home-two .ev-box-title h3 {
+    text-align: center; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-img {
+    max-height: 174px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-body .box-content {
+    padding: 15px; }
+
+  .event-detail-page .our-spearker-home-four .uk-slidenav-position .box .box-body .box-content li {
+    padding: 0 8px; } }
+@media (max-width: 1219px) and (min-width: 768px) {
+  .about-event-home-two .menu-title li a {
+    padding-left: 10px;
+    font-size: 18px; }
+
+  .about-event-home-two .menu-title li a:before {
+    right: 10px;
+    font-size: 23px; }
+
+  .event-list-width-sidebar-page .sidebar-event .category-event {
+    padding: 60px 15px 50px 15px; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .meta h5 span:before {
+    display: none; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .content {
+    margin-top: 10px; }
+
+  .event-list-width-sidebar-page .sidebar-event .related-event .box-content .meta h5 span {
+    display: block; }
+
+  .event-list-width-sidebar-page .box .box-content p {
+    padding: 20px 0; }
+
+  .blog-detail-page .blog-next-prev.box-body {
+    padding: 50px 10px; }
+
+  .blog-detail-page .blog-next-prev .post-next {
+    padding-left: 15px; }
+
+  .blog-detail-page .blog-next-prev .post-prev {
+    padding-right: 15px; }
+
+  .blog-detail-page .blog-next-prev .post-next .box-thumbnai {
+    margin-left: 10px; }
+
+  .blog-detail-page .box-body .box-member.post-prev .box-thumbnai {
+    margin-right: 10px; }
+
+  .blog-detail-page .box-body.blog-next-prev .box-member .box-text h3 {
+    font-size: 16px; }
+
+  .blog-detail-page .box-body.blog-next-prev .box-member .box-text p {
+    font-size: 13px; }
+
+  .event-faqs-home-three .box .box-content .box-img {
+    display: block;
+    margin: auto; }
+
+  .event-faqs-home-three .box .box-content .content {
+    display: block;
+    padding-left: 0;
+    padding-top: 30px;
+    text-align: center; }
+
+  .event-faqs-home-three .box .box-content .content .ev-border-line-primary {
+    margin-left: auto;
+    margin-right: auto; } }
+@media (max-width: 992px) and (min-width: 768px) {  .blog-3-column-page .about-event-home-four .uk-position .bg-img, .blog-3-column-page .about-event-home-four .uk-position .bg-img-top{	max-height: 158px;  }
+  .gallery-full-width-page .our-gallery-menu li {
+    margin-bottom: 10px;
+  }
+  .gallery-full-width-page.sec-padding{
+    padding: 50px 0;
+  }  
+  .question .question-img .uk-overlay-panel p {
+    text-align: center;
+    padding: 0 20px; }
+
+  .question .question-content {
+    padding: 20px 10px; }
+
+  .question .question-content .box-content .tagline {
+    width: 70px; }
+
+  .ticket-list .box.uk-active .box-header h3 {
+    font-size: 30px; }
+
+  .ticket-list .box .ribon {
+    right: -15px; }
+
+  .ticket-list .box .ribon:after {
+    right: -20px;
+    border-top: 17px solid #f8f8f8;
+    border-bottom: 17px solid #f8f8f8;
+    border-right: 20px solid transparent; }
+
+  .ticket-list .box .ribon h4 {
+    padding: 10px 15px; }
+
+  .about-event-countdown-home-two .ev-box-icon-circle .box-speaker .box-icon {
+    width: 300px;
+    height: 300px; }
+
+  .about-event-countdown-home-two .ev-box-icon-circle .box-speaker .box-icon a .icon {
+    width: 230px;
+    height: 230px;
+    line-height: 230px;
+    font-size: 100px; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming {
+    left: -129px; }
+
+  .upcoming-event-home-two .uk-overlay .box-upcoming h3 {
+    font-size: 30px;
+    line-height: 60px;
+    padding: 0 40px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content h3 {
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 5px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content a .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px; }
+
+  .upcoming-event-home-two .uk-overlay .uk-overlay-background .box-content p {
+    font-size: 12px; }
+
+  .upcoming-event-home-two .uk-overlay > .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 15px; }
+
+  .question .question-content .box-node {
+    padding-right: 10px; }
+
+  .question .question-content .box-icon {
+    right: 20px; }
+
+  .frequently-question-home-two .box .box-content .tagline {
+    width: 50px; }
+
+  .frequently-question-home-two .box:hover .box-content .tagline, .frequently-question-home-two .box.uk-active .box-content .tagline {
+    width: 70px; }
+
+  .our-spearker-home-two .box-hover .uk-overlay {
+    max-height: 250px; }
+
+  .ticket-list-home-two .box:hover .box-header .uk-text-center h3, .ticket-list-home-two .box.uk-active .box-header .uk-text-center h3 {
+    font-size: 56px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content h3 {
+    font-size: 15px;
+    line-height: 23px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content p span, .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .box-content p {
+    font-size: 12px;
+    line-height: 23px; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .uk-overlay-panel {
+    padding: 0; }
+
+  .blogger-event-home-two .uk-slidenav-position .uk-slideset li .box-img .icon {
+    width: 45px;
+    height: 45px;
+    line-height: 45px; }
+
+  .highlight-home-three .box .box-body {
+    padding: 25px; }
+
+  .highlight-home-three .box .box-body .icon-wraper .box-icon {
+    width: 130px;
+    height: 130px; }
+
+  .highlight-home-three .box .box-body .content {
+    padding-left: 30px; }
+
+  .highlight-home-three .box .box-body .icon-wraper .box-icon .icon {
+    width: 102px;
+    height: 102px;
+    line-height: 102px; }
+
+  .footer-home-three .newstter .uk-form input {
+    width: 56%; }
+
+  .footer-home-three .newstter .uk-form .ev-button {
+    margin-left: 15px; }
+
+  .highlight-home-three .box .box-body .icon-wraper .box-icon .icon.icon_notebook:before, .highlight-home-three .box .box-body .icon-wraper .box-icon .icon.icon_search:before, .highlight-home-three .box .box-body .icon-wraper .box-icon .icon.icon_scheme:before, .highlight-home-three .box .box-body .icon-wraper .box-icon .icon.icon_handphone:before {
+    top: 30px; }
+
+  .about-event-home-four .uk-position .ev-box-title {
+    padding: 30px 0 60px 0; }
+
+  .about-event-home-four .uk-position .ev-box-title p {
+    padding: 0 30px 35px 30px; }
+
+  .our-spearker-home-five .box .box-img {
+    max-height: 315px; }
+
+  .event-grid-3-column-page .box .event-price {
+    width: 140px;
+    height: 140px;
+    bottom: -65px; }
+
+  .event-grid-2-column-page.event-grid-3-column-page .box .event-price {
+    bottom: -70px;
+    line-height: 80px; }
+
+  .event-grid-2-column-page.event-grid-3-column-page .box .event-price span {
+    padding-left: 0; }
+
+  .event-grid-3-column-page .box .event-price span {
+    padding-left: 15px; }
+
+  .event-detail-page .event-grid-2-column-page .ticket-list-home-two .box:hover .box-header .uk-text-center h3, .ticket-list-home-two .box.uk-active .box-header .uk-text-center h3 {
+    font-size: 24px; }
+
+  .blog-3-column-page .about-event-home-five .uk-position .bg-img a .icon, .blog-3-column-page .about-event-home-five .uk-position .bg-img-top a .icon {
+    width: 70px;
+    height: 70px;
+    line-height: 70px; } }
+@media (max-width: 907px) and (min-width: 885px) {
+  .footer-home-two .footer-bottom-home-two p {
+    line-height: 25px;
+    padding: 25px 0; } }
+@media (max-width: 884px) and (min-width: 768px) {
+  .footer-home-two .footer-bottom-home-two p {
+    line-height: 25px;
+    padding: 25px 0; }
+
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom ul li {
+    padding: 0; }
+
+  .footer-home-two .footer-bottom-home-two .menu-footer-bottom {
+    padding: 10px 0; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta {
+    height: 30px;
+    line-height: 30px; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta span {
+    display: block; }
+
+  .latest-blog-home-three .uk-slideset .box-content .meta span:first-child:before {
+    display: none; }
+
+  .latest-blog-home-three .uk-slideset .box-content {
+    padding-top: 55px; } }
+@media (max-width: 620px) and (min-width: 480px) {
+  .event-faqs-home-three .box .box-content .box-img {
+    display: block;
+    margin: auto; }
+
+  .event-faqs-home-three .box .box-content .content {
+    display: block;
+    padding-left: 0;
+    padding-top: 30px;
+    text-align: center; }
+
+  .event-faqs-home-three .box .box-content .content .ev-border-line-primary {
+    margin-left: auto;
+    margin-right: auto; } }
+
+/*# sourceMappingURL=responsive.css.map */
