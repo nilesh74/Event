@@ -8,7 +8,7 @@
 			
 			<div class="login-box-body">
 				<p class="login-box-msg">Sign in to start your session</p>
-				<form action="<?php echo base_url(); ?>admin/clogin" method="post" enctype="multipart/form-data">
+				<form action="<?php echo base_url(); ?>admin/cLogin" method="post" enctype="multipart/form-data">
 					
 					<?php
 						if($this->session->flashdata('error'))
