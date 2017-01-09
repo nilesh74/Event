@@ -193,7 +193,7 @@ $("#set_focus").focus();
 	
 	function join_event(event_id)
 	{
-		alert(event_id);
+		
 		var formdata={ 'event_id':event_id };
 		$.ajax(
 				{
@@ -202,7 +202,7 @@ $("#set_focus").focus();
 					data: formdata,
 					success:function(data)
 					{
-						alert(data);
+						
 						if(data==1)
 						{
 							window.location = "<?php echo base_url(); ?>event/login";
